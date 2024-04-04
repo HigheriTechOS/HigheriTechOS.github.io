@@ -4,6 +4,7 @@
 
 A website simulating linux system's GUI, using theme of Deepin distro. You can write blogs with markdown and use it to serve your own technical resumes.
 
+#### [中文文档](https://github.com/HigheriTechOS/HigheriTechOS.github.io/blob/main/misc/readme_chs.md)
 
 ## Quick Start
 This project is originally designed to be host on github pages. If this is the way you expect, you follow these steps 
