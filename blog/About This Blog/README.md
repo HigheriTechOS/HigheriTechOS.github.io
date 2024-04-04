@@ -1,10 +1,10 @@
-![](https://raw.githubusercontent.com/GoodManWEN/GoodManWEN.github.io/main/misc/figure.png)
+![](https://raw.githubusercontent.com/HigheriTechOS/HigheriTechOS.github.io/main/misc/figure.png)
 
-# About GoodManWEN.github.io
+# About HigheriTechOS.github.io
 
 A website simulating linux system's GUI, using theme of Deepin distro. You can write blogs with markdown and use it to serve your own technical resumes.
 
-#### [中文文档](https://github.com/GoodManWEN/GoodManWEN.github.io/blob/main/misc/readme_chs.md)
+#### [中文文档](https://github.com/HigheriTechOS/HigheriTechOS.github.io/blob/main/misc/readme_chs.md)
 
 ## Quick Start
 This project is originally designed to be host on github pages. If this is the way you expect, you follow these steps 
@@ -19,8 +19,8 @@ After setting up, if your configuration is correct, then the project will run as
 
 Nevertheless, some people may want to self-host it (locally), then you should follow these steps:
 ```
-git clone https://github.com/GoodManWEN/GoodManWEN.github.io.git
-cd GoodManWEN.github.io.git
+git clone https://github.com/HigheriTechOS/HigheriTechOS.github.io.git
+cd HigheriTechOS.github.io.git
 npm install
 npm run serve
 ```
@@ -46,7 +46,7 @@ To make it easier for you to post your articles as hyperlinks on third-party pla
    https://{{host}}/#/desktop/post/{{article_file_name}}.md
 
    e.g.
-   https://GoodManWEN.github.io/#/desktop/post/README.md
+   https://HigheriTechOS.github.io/#/desktop/post/README.md
 ```
 
 Notably that program will recursively look for the first matched file in the file structure, which means that if you have multiple files using the same file name (like README.md) but distributed in different folders, this will only match the first of them. 
@@ -92,7 +92,7 @@ This project is inspired by:
 
 Any improvements that wish to improve this site are welcome, you need to contribute to this project by submitting a PR. Since the author himself is not a professional programmer focused on front-end, he is not familiar with the way how front-end tests are deployed, so you shoulddescribe clearly in the PR the reason for your submission, all the places you are modifying, and what we should expect to get out of it.
 
-##### [Guidelines for further development](https://github.com/GoodManWEN/GoodManWEN.github.io/blob/main/misc/Guidelines%20for%20further%20development.md)
+##### [Guidelines for further development](https://github.com/HigheriTechOS/HigheriTechOS.github.io/blob/main/misc/Guidelines%20for%20further%20development.md)
 
 
 ### Current deficiencies
@@ -112,4 +112,4 @@ The author of this project has no official relationship with deepin, if you wish
 
 To you, hope you enjoy this website.
 
-![Stargazers repo roster for @GoodManWEN/GoodManWEN.github.io](https://reporoster.com/stars/GoodManWEN/GoodManWEN.github.io)
+[![Stargazers repo roster for @HigheriTechOS/HigheriTechOS.github.io](https://reporoster.com/stars/HigheriTechOS/HigheriTechOS.github.io)](https://github.com/HigheriTechOS/HigheriTechOS.github.io/stargazers)
